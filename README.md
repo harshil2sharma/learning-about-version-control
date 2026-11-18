@@ -1,3 +1,3 @@
 # Learning about Version Control
 
-Author: Your Name
+Author: Harshil Sharma
